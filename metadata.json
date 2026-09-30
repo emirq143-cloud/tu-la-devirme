@@ -1,0 +1,6 @@
+{
+  "name": "Brick Out",
+  "description": "Klasik ve bağımlılık yapıcı tuğla kırma ve top fırlatma oyunu (Brick Out - Shoot the ball).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
